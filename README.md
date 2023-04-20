@@ -1,3 +1,3 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png">
+<img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png">
 
 **The Repository contains answers to Hacker Rank which is a one-Month Preparation Kit**
